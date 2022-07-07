@@ -24,8 +24,7 @@ h1 {
   text-align: center;
   vertical-align: middle;
   line-height: 100px;
-  font-family: 'Jua', sans-serif;
-  letter-spacing: 0.1rem;
+  font-family: 'Fredoka One', cursive;
   color: #e53170;
 }
 
@@ -38,6 +37,7 @@ h1 {
 .areaPrincipale p {
   padding: 10px 0px 30px;
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
 .areaTeam {
@@ -67,18 +67,19 @@ h1 {
 
 .floatLeft h3,
 .floatLeft p {
-  padding: 3px;
+  padding: 1px;
   padding-left: 115px;
   color: #fff;
   text-align: left;
 }
 
 .floatLeft h3 {
-  font-family: 'Jua', sans-serif;
-  padding-top: 18px;
-  font-size: 1rem;
+  font-family: 'Poppins', sans-serif;
+  padding-top: 14px;
+  font-size: 1.1rem;
 }
 
 .floatLeft p {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+  font-family: 'Poppins', sans-serif;
 }
